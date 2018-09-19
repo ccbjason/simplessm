@@ -1,0 +1,11 @@
+[INFO] [2018-09-19 11:46:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-09-19 11:46:59][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@197c004: startup date [Wed Sep 19 11:46:59 CST 2018]; root of context hierarchy
+[INFO] [2018-09-19 11:46:59][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-09-19 11:46:59][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2018-09-19 11:47:00][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@197c004: startup date [Wed Sep 19 11:46:59 CST 2018]; root of context hierarchy
+[INFO] [2018-09-19 11:50:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-09-19 11:50:55][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@e6e9c3: startup date [Wed Sep 19 11:50:55 CST 2018]; root of context hierarchy
+[INFO] [2018-09-19 11:50:55][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-09-19 11:50:55][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2018-09-19 11:50:56][TestMyBaties]{"age":88,"id":1,"password":"1qaz2wsx","userName":"test"}
+[INFO] [2018-09-19 11:50:56][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@e6e9c3: startup date [Wed Sep 19 11:50:55 CST 2018]; root of context hierarchy
